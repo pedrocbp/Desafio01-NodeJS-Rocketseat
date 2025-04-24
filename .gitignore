@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependências de produção
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pasta de build
+/dist
+
+# IDEs e editores de código
+.vscode/
+.idea/
+
+# Configurações de sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+
+# Arquivos de sistema
+*.bak
+*.swp
